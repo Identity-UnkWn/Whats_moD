@@ -1,5 +1,6 @@
 # Whats_moD
-<p>Get the messages uploaded to Your database as soon as they arrive</p>
+<p>Get the messages uploaded to Your database as soon as they arrive</p><br>
+<p>Saves view once and deleted messages forever</p>
 <h2>env variables</h2>
 <p>
   MONGODB_URI : Get it from https://www.mongodb.com/<br>
